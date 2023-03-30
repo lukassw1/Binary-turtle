@@ -10,4 +10,4 @@ commands
 
 The result of running the instructions in the file on a clean bmp file is output.bmp
 
-![](https://github.com/lukassw1/)
+![](https://github.com/lukassw1/Binary-turtle/blob/main/output.bmp)
